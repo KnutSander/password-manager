@@ -14,4 +14,5 @@ Features and functionality:
 
 ## Data Storage
 - Data is stored in private GitHub repo (for now)
-
+- Store in Azure in the future
+    - Look into this further, what storage service to use etc.
